@@ -9,7 +9,7 @@ A personal portfolio website built using **Node.js**, **Express.js**, and **Hand
 - 🧠 Skills and technology stack
 - 📞 Contact form with email functionality
 - 📱 Fully responsive design
-- 🌐 Deployed on [[https://anshad-portfolio-website-affc.onrender.com]
+- 🌐 Deployed on [https://anshad-portfolio-website-affc.onrender.com]
 
 ---
 
