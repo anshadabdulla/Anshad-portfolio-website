@@ -24,7 +24,17 @@ A personal portfolio website built using **Node.js**, **Express.js**, and **Hand
 
 ## 📸 Screenshots
 
-> (Optional: Add screenshots here if available)
+### 🏠 ABOUT Section
+![ABOUT](./public/screenshots/view1.png)
+
+### 💼 WORK Section
+![WORK](./public/screenshots/view2.png)
+
+### 💼 SKILLS Section
+![SKILLS](./public/screenshots/view3.png)
+
+### 💼 CONTACT Section
+![CONTACT](./public/screenshots/view4.png)
 
 ---
 
