@@ -18,7 +18,7 @@ A personal portfolio website built using **Node.js**, **Express.js**, and **Hand
 - **Backend**: Node.js, Express.js
 - **Templating Engine**: Handlebars (HBS)
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Deployment**: [Render/Railway/Vercel]
+- **Deployment**: Render
 
 ---
 
